@@ -265,13 +265,13 @@ This webpage is likely for a small business. It includes a contact form and a br
                 <tr>
                     <td>2023-24</td>
                     <td>Rs.3000</td>
-                    <td></td>
+                    <td>Rs.2925</td>
                     <td>Rs.2275</td>
                 </tr>
                 <tr>
                     <td>2024-25</td>
                     <td>Rs.3700</td>
-                    <td></td>
+                    <td>Rs.3215</td>
                     <td>Rs.2425</td>
                 </tr>
             </table>
